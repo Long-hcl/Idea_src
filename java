@@ -41,3 +41,4 @@ Offending resource: class path resource [spring-mybatis.xml]
 5、Caused by: java.lang.UnsupportedClassVersionError: com/mysql/jdbc/Driver : Unsupported major.minor version 52.0
 
 解决办法：mysql8 依赖jdk1.8，升级jdk
+这是sql的使用
