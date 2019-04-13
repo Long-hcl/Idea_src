@@ -43,3 +43,4 @@ Offending resource: class path resource [spring-mybatis.xml]
 解决办法：mysql8 依赖jdk1.8，升级jdk
 这是sql的使用
 帮大忙了
+哈哈哈哈哈哈
